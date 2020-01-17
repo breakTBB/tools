@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="618aa733-ffd9-4ca5-ad45-5f8d01b29f3d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$score.coverage" NAME="score Coverage Results" MODIFIED="1579240835849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$course.coverage" NAME="course Coverage Results" MODIFIED="1540532783388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$SetCtime.coverage" NAME="SetCtime Coverage Results" MODIFIED="1540895358606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$wordcount.coverage" NAME="wordcount Coverage Results" MODIFIED="1542279551989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$demo.coverage" NAME="demo Coverage Results" MODIFIED="1537702186161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$loop.coverage" NAME="loop Coverage Results" MODIFIED="1541730855176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$study.coverage" NAME="study Coverage Results" MODIFIED="1538727812445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$IO.coverage" NAME="IO Coverage Results" MODIFIED="1539337345438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$cf.coverage" NAME="cf Coverage Results" MODIFIED="1544929333124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$delme__1_.coverage" NAME="delme (1) Coverage Results" MODIFIED="1546309391033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$sxb.coverage" NAME="sxb Coverage Results" MODIFIED="1573966294889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$switch.coverage" NAME="switch Coverage Results" MODIFIED="1539915243354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$r.coverage" NAME="r Coverage Results" MODIFIED="1542701732110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$study.coverage" NAME="study Coverage Results" MODIFIED="1538742161946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$set.coverage" NAME="set Coverage Results" MODIFIED="1540529349793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$exam.coverage" NAME="exam Coverage Results" MODIFIED="1541732809433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$rre.coverage" NAME="rre Coverage Results" MODIFIED="1542336684227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$delme.coverage" NAME="delme Coverage Results" MODIFIED="1545294030109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ml.coverage" NAME="ml Coverage Results" MODIFIED="1576315032470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1544089721818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$file_rename.coverage" NAME="file-rename Coverage Results" MODIFIED="1579226003471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$buysole_1.coverage" NAME="buysole_1 Coverage Results" MODIFIED="1544103862697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Compressed/指导书_实验5/实验5 函数/项目3参考代码" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="file-rename.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file-rename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/score.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="78" column="45" lean-forward="true" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cell.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/openpyxl/cell/cell.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8928">
+              <caret line="288" selection-start-line="288" selection-end-line="288" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1`</find>
+      <find>18</find>
+      <find>I</find>
+      <find>of</find>
+      <find>张李</find>
+      <find>data</find>
+      <find>calcing</find>
+      <find>大学英语</find>
+      <find>汇编</find>
+      <find>setGPA</find>
+      <find>gpa:</find>
+      <find>中国近现代</find>
+      <find>C语言</find>
+      <find>gpa</find>
+      <find>p:</find>
+      <find>cs</find>
+      <find>*-*</find>
+      <find>here</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/study.ipynb" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/study.py" />
+        <option value="$PROJECT_DIR$/IO.py" />
+        <option value="$PROJECT_DIR$/switch.py" />
+        <option value="$PROJECT_DIR$/set.py" />
+        <option value="$PROJECT_DIR$/SetCtime.py" />
+        <option value="$PROJECT_DIR$/loop.py" />
+        <option value="$PROJECT_DIR$/exam.py" />
+        <option value="$PROJECT_DIR$/wordcount.py" />
+        <option value="$PROJECT_DIR$/rre.py" />
+        <option value="$PROJECT_DIR$/r.py" />
+        <option value="$PROJECT_DIR$/course.py" />
+        <option value="$PROJECT_DIR$/assignment.py" />
+        <option value="$USER_HOME$/Downloads/Compressed/指导书_实验5/实验5 函数/项目3参考代码/buysole_1.py" />
+        <option value="$USER_HOME$/.qqbot-tmp/plugins/sample.py" />
+        <option value="$PROJECT_DIR$/delme.py" />
+        <option value="$PROJECT_DIR$/cf.py" />
+        <option value="$PROJECT_DIR$/OfflineJudge.py" />
+        <option value="D:/book/Algorithm/算法竞赛宝典第二部资源包/第二部资源包/第十一章 动态规划/最大连续子序列问题/最大子序列和/data/OfflineJudge.py" />
+        <option value="$PROJECT_DIR$/sxb.py" />
+        <option value="$PROJECT_DIR$/ml.py" />
+        <option value="$PROJECT_DIR$/file-rename.py" />
+        <option value="$PROJECT_DIR$/score.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python基础" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prism\Desktop\Code\untitled" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prism\Desktop\Code\untitled" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.score">
+    <configuration name="delme (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="file-rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file-rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="score" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/score.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sxb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\prism\Desktop\Code\untitled\ml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.delme (1)" />
+      <item itemvalue="Python.file-rename" />
+      <item itemvalue="Python.sxb" />
+      <item itemvalue="Python.ml" />
+      <item itemvalue="Python.score" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.score" />
+        <item itemvalue="Python.file-rename" />
+        <item itemvalue="Python.ml" />
+        <item itemvalue="Python.sxb" />
+        <item itemvalue="Python.delme (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\prism\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="618aa733-ffd9-4ca5-ad45-5f8d01b29f3d" name="Default" comment="" />
+      <created>1537701196143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537701196143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.38863286" />
+      <window_info anchor="bottom" id="Regex Tester" order="7" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.1056" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.36" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5392" />
+      <window_info anchor="right" id="Remote Host" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49519232" visible="true" weight="0.1583558" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.49881235" weight="0.32867134" />
+      <window_info id="Structure" order="1" sideWeight="0.5048077" side_tool="true" weight="0.33239833" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4288" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="7" sideWeight="0.5011876" side_tool="true" weight="0.67412585" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15498652" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.22076024" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39327484" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3230994" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3535503" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="we" />
+        <watch expression="sc" />
+        <watch expression="p" />
+        <watch expression="q" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>name == '陈峰'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>age</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>21</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>23</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20273">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$PROJECT_DIR$/switch.py" />
+    <entry file="file://$PROJECT_DIR$/file-rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rre.py" />
+    <entry file="uml://Python/#C:/Users/prism/Desktop/Code/untitled/wordcount.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/prism/Desktop/Code/untitled/wordcount.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Compressed/指导书_实验5/实验5 函数/项目3参考代码/record.txt" />
+    <entry file="file://$USER_HOME$/Downloads/Compressed/指导书_实验5/实验5 函数/项目3参考代码/buysole_1.py" />
+    <entry file="file://$USER_HOME$/.qqbot-tmp/plugins/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="503" selection-start-line="503" selection-end-line="503" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-735023500/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="4934" column="8" selection-start-line="4934" selection-start-column="8" selection-end-line="4934" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../指导书_实验6/实验6 对象/继承.py" />
+    <entry file="file://$PROJECT_DIR$/../../指导书_实验6 (2)/实验6 对象/继承.py" />
+    <entry file="file://$PROJECT_DIR$/../../指导书_实验6 (2)/实验6 对象/类.py" />
+    <entry file="file://$PROJECT_DIR$/导论题去答案版" />
+    <entry file="file://$PROJECT_DIR$/a.jpg" />
+    <entry file="file://$PROJECT_DIR$/assignment.py" />
+    <entry file="file://$PROJECT_DIR$/exam.txt" />
+    <entry file="file://$PROJECT_DIR$/loop.py" />
+    <entry file="file://$PROJECT_DIR$/SetCtime.py" />
+    <entry file="file://$PROJECT_DIR$/wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/r.py" />
+    <entry file="file://$PROJECT_DIR$/导论题去答案版.txt" />
+    <entry file="file://$PROJECT_DIR$/导论题去答案终版.txt" />
+    <entry file="file://$PROJECT_DIR$/wc.png" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/switch.py" />
+    <entry file="file://$PROJECT_DIR$/render.html" />
+    <entry file="file://$PROJECT_DIR$/data.txt" />
+    <entry file="file://$PROJECT_DIR$/course.py" />
+    <entry file="file://$PROJECT_DIR$/cf.py" />
+    <entry file="file://$PROJECT_DIR$/set.py" />
+    <entry file="file://$PROJECT_DIR$/girl.png" />
+    <entry file="file://$PROJECT_DIR$/pd.py" />
+    <entry file="file://$PROJECT_DIR$/IO.py" />
+    <entry file="file://$PROJECT_DIR$/exam.py" />
+    <entry file="file://$PROJECT_DIR$/delme.py" />
+    <entry file="file://D:/book/Algorithm/算法竞赛宝典第二部资源包/第二部资源包/第十一章 动态规划/最大连续子序列问题/最大子序列和/data/OfflineJudge.py" />
+    <entry file="file://$PROJECT_DIR$/OfflineJudge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="19" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file-rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/openpyxl/cell/cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8928">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="78" column="45" lean-forward="true" selection-start-line="78" selection-start-column="45" selection-end-line="78" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="总浴位" />
+        <entry key="text" value="&lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt;     &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot; /&gt;     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;     &lt;title&gt;实时浴位 -四川农业大学实时浴位系统&lt;/title&gt;      &lt;link href=&quot;/Content/css?v=MDbdFKJHBa_ctS5x4He1bMV0_RjRq8jpcIAvPpKiN6U1&quot; rel=&quot;stylesheet&quot;/&gt;      &lt;script src=&quot;/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1&quot;&gt;&lt;/script&gt;      &lt;script src=&quot;/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1&quot;&gt;&lt;/script&gt;      &lt;script src=&quot;/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1&quot;&gt;&lt;/script&gt;        &lt;/head&gt; &lt;body&gt;     &lt;div class=&quot;navbar navbar-inverse navbar-fixed-top&quot;&gt;         &lt;div class=&quot;container&quot;&gt;             &lt;div class=&quot;navbar-header&quot;&gt;                 &lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-collapse&quot;&gt;                     &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;                     &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;                     &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;                 &lt;/button&gt;                 &lt;a class=&quot;navbar-brand&quot; href=&quot;/&quot;&gt;实时浴位系统&lt;/a&gt;             &lt;/div&gt;             &lt;div class=&quot;navbar-collapse collapse&quot;&gt;                 &lt;ul class=&quot;nav navbar-nav&quot;&gt;                 &lt;/ul&gt;                     &lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;         &lt;li&gt; &lt;a id=&quot;modal-717864&quot; href=&quot;#modal-container-717864&quot; role=&quot;button&quot; class=&quot;btn&quot; data-toggle=&quot;modal&quot;&gt;登录&lt;/a&gt;&lt;/li&gt;     &lt;/ul&gt;              &lt;/div&gt;         &lt;/div&gt;     &lt;/div&gt;     &lt;div class=&quot;container body-content&quot; style=&quot;margin:5px auto&quot;&gt;         &lt;div style=&quot;margin:10px auto&quot;&gt;&lt;font id=&quot;divT&quot; size=&quot;4&quot;&gt;&lt;/font&gt;&lt;/div&gt;           &lt;script src=&quot;/Scripts/jquery.signalR-2.2.3.js&quot;&gt;&lt;/script&gt; &lt;script type=&quot;text/javascript&quot;&gt;      //实时推送     var conn = |d.connection(&quot;/getconnection&quot;);      conn.start().done(function (data) {         console.log(&quot;已连接服务器,当前GUID为&quot; + data.id);     });      //接受服务器的推送     conn.received(function (msg) {         console.log(&quot;服务器返回消息： &quot; + msg);         var type = (msg + &quot;&quot;).charAt(0);         var msgago = |d(&quot;#msgago&quot;).val();         var num = 0;         switch (type) {             case '0': break;             case '1':                 msg = msg.substring(1, msg.length - 1);                 var arr = msg.split(';');                 for (var i = 0; i &lt; arr.length; i++) {                     var par = arr[i].split(',');                     if (msgago.indexOf(par[0]) == -1) {                         num++;                         msgago = msgago + par[0] + ';';                         |d(&quot;#msgago&quot;).attr(&quot;value&quot;, msgago);                         var root = document.getElementById(&quot;root&quot;);                         var media = document.createElement(&quot;div&quot;);                         media.setAttribute(&quot;class&quot;, &quot;media&quot;);                         media.innerHTML = &quot;&lt;a href='#' class='pull-left'&gt; &lt;img src='/favicon.ico' class='media-object' alt='' /&gt; &lt;/a&gt; &lt;div class='media-body'&gt; &lt;h4 class='media-heading' id='h4&quot; + par[0] + &quot;'&gt; &quot; + par[1] + &quot; &quot; + par[2] + &quot;&lt;/h4&gt; &lt;span id='span&quot; + par[0] + &quot;'&gt;&quot; + &quot;总浴位:&quot; + par[3] + &quot; &lt;font color='red'&gt;&lt;b&gt;空浴位:&quot; + par[6] + &quot;&lt;/b&gt;&lt;/font&gt;&lt;font color='green'&gt; 当前洗浴人数:&quot; + par[5] + &quot;&lt;/font&gt;&lt;/span&gt; &lt;/div&gt;&quot;;                         root.appendChild(media);                     }                 }                 break;             case '2':                 msg = msg.substring(1, msg.length - 1);                 var arr = msg.split(';');                 var temp = msgago;                 temp = temp.substring(0, temp.length - 1);                 for (var i = 0; i &lt; arr.length; i++) {                     var par = arr[i].split(',');                     if (msgago.indexOf(par[0]) == -1) {                         num++;                         msgago = msgago + par[0] + ';';                         |d(&quot;#msgago&quot;).attr(&quot;value&quot;, msgago);                         var media = document.createElement(&quot;div&quot;);                         media.setAttribute(&quot;class&quot;, &quot;media&quot;);                         media.innerHTML = &quot;&lt;a href='#' class='pull-left'&gt; &lt;img src='/favicon.ico' class='media-object' alt='' /&gt; &lt;/a&gt; &lt;div class='media-body'&gt; &lt;h4 class='media-heading' id='h4&quot; + par[0] + &quot;'&gt; &quot; + par[1] + &quot; &quot; + par[2] + &quot;&lt;/h4&gt; &lt;span id='span&quot; + par[0] + &quot;'&gt;&quot; + &quot;总浴位:&quot; + par[3] +  &quot; &lt;font color='red'&gt;&lt;b&gt;空浴位:&quot; + par[6] + &quot;&lt;/b&gt;&lt;/font&gt;&lt;font color='green'&gt; 当前洗浴人数:&quot; + par[5] + &quot;&lt;/font&gt;&lt;/span&gt; &lt;/div&gt;&quot;;                         root.appendChild(media);                     }                     else {                         var span = document.getElementById(&quot;span&quot; + par[0]);                         span.innerHTML = &quot;总浴位:&quot; + par[3] +  &quot;&lt;font color='red'&gt;&lt;b&gt; 空浴位:&quot; + par[6] + &quot;&lt;/b&gt;&lt;/font&gt;&lt;font color='green'&gt; 当前洗浴人数:&quot; + par[5] + &quot;&lt;/font&gt;&quot;;                     }                 }                        break;             default:         }     });  &lt;/script&gt; &lt;div class=&quot;container&quot; style=&quot;margin:20px auto;&quot;&gt;     &lt;div class=&quot;row clearfix&quot;&gt;         &lt;div class=&quot;col-md-12 column&quot; id=&quot;root&quot;&gt;         &lt;/div&gt;     &lt;/div&gt; &lt;/div&gt; &lt;input hidden=&quot;hidden&quot; id=&quot;msgago&quot; value=&quot;&quot; /&gt;         &lt;hr /&gt;         &lt;footer&gt;             &lt;div class=&quot;container&quot;&gt;                 &lt;div class=&quot;row&quot;&gt;                     &lt;div class=&quot;col-md-12&quot;&gt;                         &lt;div class=&quot;copy&quot; style=&quot;border-top-width: 0px !important;&quot;&gt;                             &lt;!--[if lt IE 9]&gt;&lt;div style=&quot;margin-top:1em;&quot;&gt;&lt;/div&gt;&lt;![endif]--&gt;                             &lt;h6 align=&quot;center&quot;&gt;四川农业大学&lt;span class=&quot;color&quot;&gt;实时浴位&lt;/span&gt;系统&lt;/h6&gt;                             &lt;p align=&quot;center&quot;&gt; &amp;copy; 2018 &lt;a href=&quot;/&quot;&gt;BSS&lt;/a&gt;|| Powered by &lt;a href=&quot;http://www.wingstudio.org&quot; target=&quot;_blank&quot;&gt;WingStudio&lt;/a&gt;&lt;/p&gt;                         &lt;/div&gt;                     &lt;/div&gt;                 &lt;/div&gt;                 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;             &lt;/div&gt;         &lt;/footer&gt;     &lt;/div&gt;     &lt;script&gt;         function getCurDate() {             var d = new Date();             var week;             switch (d.getDay()) {                 case 1: week = &quot;星期一&quot;; break;                 case 2: week = &quot;星期二&quot;; break;                 case 3: week = &quot;星期三&quot;; break;                 case 4: week = &quot;星期四&quot;; break;                 case 5: week = &quot;星期五&quot;; break;                 case 6: week = &quot;星期六&quot;; break;                 default: week = &quot;星期天&quot;;             }             var years = d.getFullYear();             var month = add_zero(d.getMonth() + 1);             var days = add_zero(d.getDate());             var hours = add_zero(d.getHours());             var minutes = add_zero(d.getMinutes());             var seconds = add_zero(d.getSeconds());             var ndate = years + &quot;年&quot; + month + &quot;月&quot; + days + &quot;日 &quot; + hours + &quot;:&quot; + minutes + &quot;:&quot; + seconds + &quot; &quot; + week;             divT.innerHTML = ndate;         }          function add_zero(temp) {             if (temp &lt; 10) return &quot;0&quot; + temp;             else return temp;         }          setInterval(&quot;getCurDate()&quot;, 100);      &lt;/script&gt;         &lt;div class=&quot;modal fade&quot; id=&quot;modal-container-717864&quot; role=&quot;dialog&quot; aria-labelledby=&quot;myModalLabel&quot; aria-hidden=&quot;true&quot;&gt;             &lt;div class=&quot;modal-dialog&quot; style=&quot;width: 320px; margin: 100px auto;&quot;&gt;                 &lt;div class=&quot;modal-content&quot;&gt;                     &lt;div class=&quot;modal-header&quot;&gt;                         &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-hidden=&quot;true&quot;&gt;×&lt;/button&gt;                         &lt;div class=&quot;modal-title&quot; id=&quot;myModalLabel&quot;&gt;                             &lt;h3 class=&quot;text-center&quot;&gt;管理员登录&lt;/h3&gt;                         &lt;/div&gt;                     &lt;/div&gt;                     &lt;div class=&quot;modal-body&quot;&gt; &lt;form action=&quot;/Home/Login&quot; class=&quot;form-group&quot; method=&quot;post&quot;&gt;&lt;input name=&quot;__RequestVerificationToken&quot; type=&quot;hidden&quot; value=&quot;z3W0dF6nJAXS4AqAOjk5a9IU0ErU07eIXQTyeGMdQKyWksa91LyDso6zokM3IHDqmHImCDnPnEqwCAkPKWuIFRjSEI3Ls4mwri6bJDmdoYM1&quot; /&gt;                            &lt;div class=&quot;form-group&quot;&gt;                                 &lt;label class=&quot;control-label&quot; for=&quot;Name&quot;&gt;用户名&lt;/label&gt;                                 &lt;input type=&quot;text&quot; name=&quot;Name&quot; placeholder=&quot;Username&quot; required=&quot;required&quot; class=&quot;form-control&quot; /&gt;                             &lt;/div&gt;                             &lt;div class=&quot;form-group&quot;&gt;                                 &lt;label class=&quot;control-label&quot; for=&quot;Password&quot;&gt;密码&lt;/label&gt;                                 &lt;input type=&quot;password&quot; name=&quot;Password&quot; placeholder=&quot;Password&quot; required=&quot;required&quot; class=&quot;form-control&quot; /&gt;                             &lt;/div&gt;                             &lt;div class=&quot;text-right&quot;&gt;                                 &lt;button class=&quot;btn btn-primary&quot; type=&quot;submit&quot;&gt;登录&lt;/button&gt;                                 &lt;button class=&quot;btn btn-danger&quot; data-dismiss=&quot;modal&quot;&gt;取消&lt;/button&gt;                             &lt;/div&gt; &lt;/form&gt;                    &lt;/div&gt;                 &lt;/div&gt;             &lt;/div&gt;         &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;" />
+      </map>
+    </option>
+  </component>
+</project>
