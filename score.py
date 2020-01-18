@@ -4,15 +4,13 @@
 
 import openpyxl
 
-class Course:
-    name = ''
-    weight = 0
-    score = 0
 
-    def __init__(self, name, weight, score):
-        self.name = name
-        self.weight = weight
-        self.score = score
+class Course:
+
+    def __init__(self, n, w, s):
+        self.name = n
+        self.weight = w
+        self.score = s
 
     def __lt__(self, other):
         if self.weight != other.weight:
@@ -27,15 +25,12 @@ class Course:
 
 
 class Student:
-    sid = 201803523
-    name = '张李政'
-    courses = []
-    gpa = 5.0
 
-    def __init__(self, sid, sname):
-        self.sid = sid
-        self.name = sname
+    def __init__(self, i, n):
+        self.sid = i
+        self.name = n
         self.courses = []
+        self.gpa = 0
 
     def __lt__(self, other):
         if self.gpa != other.gpa:
@@ -52,14 +47,17 @@ class Student:
             q += we
         self.gpa = p / q
 
+
 wb = openpyxl.load_workbook('score.xlsx')
 score = wb.get_active_sheet()
 
 lines = list(score.rows)
 
 datas = {}
-cs = set()
+courseList = set()
 footer = True
+
+# process the excel file
 
 for line in lines:
     sid = line[1].value
@@ -73,10 +71,10 @@ for line in lines:
     if footer:
         footer = False
         continue
-    if attr != '必修' or ava != '是':
+    if attr != '必修' or ava == '否':
         continue
 
-    cs.add(Course(courseName, weight, score))
+    courseList.add(Course(courseName, weight, score))
     try:
         datas[sid].courses.append(Course(courseName, weight, score))
     except:
@@ -86,30 +84,33 @@ for line in lines:
 outs = []
 for data in datas.values():
     data.setGPA()
-    data.courses.sort()
     outs.append(data)
 
 # save the result
 
-cs = list(cs)
-cs.sort(reverse=True)
-header = ['学号', '姓名'] + [i.name + '(' + i.weight + ')' for i in cs] + ['GPA']
+courseList = list(courseList)
+courseList.sort(reverse=True)
+header = ['学号', '姓名'] + [i.name + '(' + i.weight + ')' for i in courseList] + ['必修加权成绩']
 
 wb = openpyxl.Workbook()
-fname = '计教一班必修加权成绩.xlsx'
+fileName = '计教一班必修加权成绩.xlsx'
 ws = wb.active
 
 ws.append(header)
 
 outs.sort(reverse=True)
 
+WIDTH = 30
+line = ['*' for i in range(4)]
 for o in outs:
-    print(o.name)
-    print('加权平均分: ', end='')
-    print(o.gpa)
-    print('-' * 20)
+    line[0] = '-' * WIDTH
+    line[1] = o.name
+    line[2] = '加权平均分: ' + str(o.gpa)
+    line[3] = '-' * WIDTH + '\n\n'
+    for i in range(4):
+        print(line[i])
     d = [o.sid, o.name]
-    for s in cs:
+    for s in courseList:
         fd = '0'
         for c in o.courses:
             if c.name == s.name:
@@ -117,6 +118,6 @@ for o in outs:
         d.append(fd)
     d.append(o.gpa)
     ws.append(d)
-print('本班共计' + str(len(datas)) + '人')
+print('共计' + str(len(datas)) + '人')
 
-wb.save(fname)
+wb.save(fileName)
